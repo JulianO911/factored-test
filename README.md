@@ -45,6 +45,6 @@ If user wants to create an account, he got to click on register in the index vie
 
 ## Run app in local machine
 
-For run the application, please install the spring boot tool for the IDE that [page](https://spring.io/tools) shows and run it (make sure that maven is installed).
+For run the application, please install the spring boot tool for the IDE that [page](https://spring.io/tools) shows and run it (make sure that maven is installed). To access, put localhost:8080 in the browser.
 
 That's it. I hope this documentation results useful. Thank you for reading.
