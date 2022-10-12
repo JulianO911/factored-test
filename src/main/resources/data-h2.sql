@@ -1,0 +1,1 @@
+INSERT INTO Employee VALUES (0,'Julian','QA Engineer','3126087831','julianosm911@gmail.com','unshowmas','img/avatar-svgrepo-com.svg','Python,Java,Javascript,SQL','High,High,Low,Medium');
