@@ -11,7 +11,7 @@ based in the template SB Admin 2 from bootstrap found [here](https://startbootst
 
 ### Backend:
 
-Server part was made width the Java framework Spring Boot and allthe packages and dependencies were administrated with Maven. Maven can be
+Server part was made with the Java framework Spring Boot and allthe packages and dependencies were administrated with Maven. Maven can be
 downloaded [here](https://maven.apache.org/download.cgi).
 
 ### Data modeling:
