@@ -42,3 +42,9 @@ The web application begins with and index view that allows user to login or regi
 position, email, phone number, the avatar image and a spyder chart with skills (this chart was made with the anychart javascript dependency). 
 
 If user wants to create an account, he got to click on register in the index view and introduce all the information. Then, he can login normally.
+
+## Run app in local machine
+
+For run the application, please install the spring boot tool for the IDE that [page](https://spring.io/tools) shows and run it (make sure that maven is installed).
+
+That's it. I hope this documentation results useful. Thank you for reading.
